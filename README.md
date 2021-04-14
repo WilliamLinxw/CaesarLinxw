@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xiaowei (Caesar) Lin, an incoming MSc student in Robotics, Systems, and Control at ETH Zurich.
+- 👋 Hi, I’m Xiaowei (Caesar) Lin, an incoming MSc in Robotics, Systems and Control student at ETH Zurich.
 - 👀 I’m interested in robotics, especially in medical robotics for rehabilitation and surgical applications. I plan on diving into these areas in my graduate studies.
 - 🌱 I graduated from the University of Electronic Science and Technology of China (UESTC) in 2020. During my undergrad, I was fortunate to have the opportunities to spend my time at UC Davis, UC Berkeley and the National Univeristy of Singapore (NUS). I’m currently undertaking a full-time robotics internship at the Advanced Institute of Information Technology, Peking Univerisity （AIIT-PKU）.
 - 💞️ I’m looking to collaborate on any projects in Robotics!
